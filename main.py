@@ -1,0 +1,1 @@
+print("PYQT5 connect test")
